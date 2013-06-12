@@ -1,0 +1,4694 @@
+{
+	"folder_history":
+	[
+		"/Users/Ganchenko/gitRepos/sample_app",
+		"/Users/Ganchenko",
+		"/Users/Ganchenko/gitRepos/mediascape",
+		"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec",
+		"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-text-2-git",
+		"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest",
+		"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages",
+		"/Users/Ganchenko/Dropbox/getqajob/dev/vhosts/getqajob.dev",
+		"/Users/Ganchenko/gitRepos/mediascape/log",
+		"/Users/Ganchenko/gitRepos/octoRGANCH",
+		"/Users/Ganchenko/gitRepos/octopress",
+		"/Users/Ganchenko/gitRepos/mediascape-nodejitsu",
+		"/Users/Ganchenko/gitRepos/testing_framework",
+		"/Users/Ganchenko/gitRepos/own/DevelopingBackboneApps",
+		"/Users/Ganchenko/gitRepos/tmp/html",
+		"/Users/Ganchenko/gitRepos/tmp/sample"
+	],
+	"last_version": 3033,
+	"last_window_id": 67,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adv",
+						"advertiser_defaults"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"eq",
+						"equal	expect equal"
+					],
+					[
+						"create",
+						"create"
+					],
+					[
+						"sh",
+						"sh=	should =="
+					],
+					[
+						"ad",
+						"advertiser"
+					],
+					[
+						"Mar",
+						"MarketEntity"
+					],
+					[
+						"joi",
+						"joined_with_market_entities"
+					],
+					[
+						"market_",
+						"market_agency"
+					],
+					[
+						"it",
+						"it	it"
+					],
+					[
+						"en",
+						"entities"
+					],
+					[
+						"ass",
+						"assigned"
+					],
+					[
+						"jo",
+						"joined_with_market_entities"
+					],
+					[
+						"to",
+						"toggleDrawer"
+					],
+					[
+						"a",
+						"alert-count"
+					],
+					[
+						"mod",
+						"models"
+					],
+					[
+						"par",
+						"parentCollection"
+					],
+					[
+						"get",
+						"getNotificationCount"
+					],
+					[
+						"no",
+						"notification-message"
+					],
+					[
+						"rem",
+						"remainingMsg"
+					],
+					[
+						"re",
+						"remainingMsg"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"not",
+						"notification-message"
+					],
+					[
+						"noti",
+						"notification-message"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"el",
+						"elem"
+					],
+					[
+						"di",
+						"dismissItem"
+					],
+					[
+						"d",
+						"dismissNotification"
+					],
+					[
+						"f",
+						"fun	Function"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"notif",
+						"Notifications"
+					],
+					[
+						"full",
+						"fullText"
+					],
+					[
+						"p",
+						"ph-notification-drawer"
+					],
+					[
+						"ren",
+						"renderNotifications"
+					],
+					[
+						"exp",
+						"expanded"
+					],
+					[
+						"ex",
+						"expandView"
+					],
+					[
+						"_",
+						"_that"
+					],
+					[
+						"fu",
+						"fullNotifications"
+					],
+					[
+						"red",
+						"renderedElement"
+					],
+					[
+						"noto",
+						"notificationCollection"
+					],
+					[
+						"err",
+						"errorState"
+					],
+					[
+						"render",
+						"renderErrorMessage"
+					],
+					[
+						"Ge",
+						"getElementsData"
+					],
+					[
+						"set",
+						"setElementsData"
+					],
+					[
+						"sso",
+						"sso_users"
+					],
+					[
+						"ss",
+						"sso_users"
+					],
+					[
+						"remove",
+						"removeNotification"
+					],
+					[
+						"remo",
+						"removeNotification"
+					],
+					[
+						"close",
+						"closeDrawer"
+					],
+					[
+						"templ",
+						"template"
+					],
+					[
+						"pr",
+						"preventDefault"
+					],
+					[
+						"sc",
+						"scrollToItem"
+					],
+					[
+						"item",
+						"itemPosition"
+					],
+					[
+						"div",
+						"divPostion"
+					],
+					[
+						"ite",
+						"itemPosition"
+					],
+					[
+						"ind",
+						"index-1"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"oldI",
+						"oldItem"
+					],
+					[
+						"old",
+						"oldIndex"
+					],
+					[
+						"is",
+						"isModelNew"
+					],
+					[
+						"curr",
+						"currentItem"
+					],
+					[
+						"saved",
+						"saved_item"
+					],
+					[
+						"isNew",
+						"isNewModel"
+					],
+					[
+						"index",
+						"indexOfElement"
+					],
+					[
+						"inde",
+						"indexOfElement"
+					],
+					[
+						"save",
+						"saved_item"
+					],
+					[
+						"address",
+						"address_attributes"
+					],
+					[
+						"valid",
+						"validation"
+					],
+					[
+						"new",
+						"new_address_1"
+					],
+					[
+						"res",
+						"rescue"
+					],
+					[
+						"app",
+						"applications"
+					]
+				]
+			},
+			"build_system": "Packages/RSpec/RSpec.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"synt ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"synta rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"synt ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git push ",
+						"Git: Push Current Branch"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git dif",
+						"Git: Diff Current File"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git his",
+						"Git: Commit history"
+					],
+					[
+						"git co",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"git hi",
+						"Git: Commit history"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"synta",
+						"Set Syntax: LESS"
+					],
+					[
+						"gist",
+						"Gist: Create Private Gist"
+					],
+					[
+						"syntax ej",
+						"Set Syntax: EJS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"xiki",
+						"Preferences: SublimeXiki Settings – Default"
+					],
+					[
+						"toggle ",
+						"View: Toggle Minimap"
+					],
+					[
+						"toggle mi",
+						"View: Toggle Minimap"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"syntax javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"snipp",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 297.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Ganchenko/gitRepos/sample_app/app/views/users/show.html.erb",
+				"/Users/Ganchenko/.pryrc",
+				"/Users/Ganchenko/gitRepos/mediascape/Gemfile",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/market_entities_controller.rb",
+				"/Users/Ganchenko/.rvm/gems/ruby-1.9.3-p0@mediascape/bundler/gems/roomer-46cb1b047d53/lib/roomer/utils.rb",
+				"/Users/Ganchenko/.irbrc",
+				"/Users/Ganchenko/.rvm/gemsets/global.gems",
+				"/Users/Ganchenko/.ssh/config",
+				"/Users/Ganchenko/.ssh/known_hosts",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/campaign_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/db/schemas/tenanted_schema.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/agency_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/.git/MERGE_MSG",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_defaults_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/address_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_spec.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default.sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_outlet_separation_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_contact_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/market_entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/application.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/accounts.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/companies_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_agency.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/market_agencies.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpecCreateModule.py",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/TestConsole.hidden-tmTheme",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/user.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/model_macros.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/spec_helper.rb",
+				"/Users/Ganchenko/test/test.html",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/notifications/user_notification_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/masthead_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/notification_drawer_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/views/layouts/application.html.erb",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.css",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.less",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/member_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/notification_drawer.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/account_settings/tenant_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/global/global_notifications.rb",
+				"/Users/Ganchenko/.oh-my-zsh/oh-my-zsh.sh",
+				"/Users/Ganchenko/.zshrc.pre-oh-my-zsh",
+				"/Users/Ganchenko/.oh-my-zsh/lib/aliases.zsh",
+				"/Users/Ganchenko/.zshrc",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/credit_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/account_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/accounts/account_traffic_settings_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/agencies/market_agencies/market_agency_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/invoicing_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/notifications/user_notification_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/global/notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/mediascape.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_data_manage.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/global/global_notification_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/user_notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/companies/companies_layout_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/user_notifications.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/accounts_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routers/routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_member_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_groups_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_group_members_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_member_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/notifications/user_notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_reassign_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/agency_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/global/notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_members_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/namespaces.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/markets/market_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_base_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/user_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/company_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/config/routes.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/inventory_types/inventory_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/tax_schedules/tax_schedule_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/make_good_policies/make_good_policy_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/revenue_types/revenue_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_layout.jst.ejs",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/navigate_to_competitive_types.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/competitive_types_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/regions_page_speX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/helpers/before_helpers.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/accounts/account_details_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/sign_in_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/partials/top_nav.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_specX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/sign_in_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/sign_in.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/google.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/Gemfile",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/mediascape.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/fixtures/mediascape/user.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/marketron.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/controllers/advertisers_controller_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/stubs/stardust.rb"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"app/*",
+					"spec/*",
+					"app/*",
+					"app/assets/javascripts/templates/*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"spec/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"box_sizing",
+					"active",
+					"require",
+					"muid",
+					"value",
+					"false",
+					"by_market_entity_address_text_match",
+					"by_master_address_1",
+					"Calif",
+					"California",
+					"address_1",
+					"Address_1",
+					"Adv",
+					"by_master_name_full_text_match",
+					"address_1",
+					"address",
+					"description",
+					"false",
+					"FF1493",
+					"All examples were filtered out",
+					"by_unassigned_markets",
+					"joined_with_market_entities",
+					"LEFT JOIN",
+					"LEFT OUTER",
+					"joined_with_master_entities",
+					"top",
+					"filter",
+					"value",
+					"haha",
+					"cursor",
+					"ph-app-nav",
+					"ss-icon",
+					"children",
+					"elem",
+					"Mediascape.Views.Shared.NotificationDrawer",
+					"text",
+					"collection change",
+					"this.collection.remove",
+					"collection.bind",
+					"this.collection *'change'",
+					"this.collection.on('change'",
+					"this.model.save",
+					"dismissNotification",
+					"account_traffic_settings",
+					"model.get",
+					"GlobalNotification",
+					"ul",
+					"_.map",
+					"notifications",
+					"shortNotifications",
+					"notifications",
+					"fullNotifications",
+					"checkLengthAndConcatenate",
+					"fullNotifications",
+					"shortNotifications",
+					"renderShortNotifications",
+					"renderedElement",
+					"fullNotifications",
+					"element",
+					"renderedElement",
+					"listItemSelection",
+					".on(",
+					"upto",
+					"times",
+					"upto",
+					"message",
+					"collection.fetch",
+					"renderedElement",
+					"response",
+					"data",
+					"this",
+					"data",
+					"this",
+					"_that",
+					"getCurrentSSO",
+					"this",
+					"collection.fetch",
+					"userid",
+					"collection.fetch",
+					"renderShowCompany:",
+					"renderShowCompany",
+					"renderLayoutView",
+					"Mediascape.Routes.Agencies",
+					"model",
+					"this.collection",
+					"Mediascape.Data.Manage",
+					"Data.Manage",
+					"Mediascape.Views.Manage.ManageSelectListLayout",
+					"collection.sort",
+					"closeDrawer",
+					"class",
+					"_.each",
+					"Mediascape.Models.Manage",
+					"options",
+					"Mediascape.BaseModel",
+					"Models.Global.Notification",
+					"Mediascape.Views.Shared.Masthead",
+					".drawer",
+					"drawer",
+					"*.jpg",
+					"ph-drawer",
+					"*.css",
+					"toggleDrawer",
+					"Help",
+					"ph-masthead",
+					"masthead_view",
+					"masthead_view.js",
+					"advertiser_routes",
+					"company_routes",
+					"Mediascape.Routes.Companies.ListCompanies",
+					"Mediascape.Views.Shared.Masthead",
+					"marketron-logo",
+					"foo",
+					"help",
+					"manageTenant",
+					"section",
+					"help",
+					"Accounts",
+					"accounts",
+					"masthead-links",
+					"js-navigate-section",
+					"Accounts",
+					"Setup",
+					"firstPosition",
+					"scrollTo",
+					"item",
+					"newIndex",
+					"index"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 275.0
+			},
+			"output.git":
+			{
+				"height": 338.0
+			},
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"user",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"accspec",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"spechel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"markenti",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"accounsp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"campaispe",
+						"spec/models/campaign_spec.rb"
+					],
+					[
+						"campstas",
+						"spec/models/campaign_standard_remark_spec.rb"
+					],
+					[
+						"buy",
+						"spec/models/buyer_settings_spec.rb"
+					],
+					[
+						"agencymas",
+						"spec/models/agency_market_spec.rb"
+					],
+					[
+						"agencsp",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advertispe",
+						"spec/models/advertiser_spec.rb"
+					],
+					[
+						"advertisede",
+						"spec/models/advertiser_defaults_spec.rb"
+					],
+					[
+						"address",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"accmarkespe",
+						"spec/models/account_market_spec.rb"
+					],
+					[
+						"accountmarkeoutsp",
+						"spec/models/account_market_outlet_separation_spec.rb"
+					],
+					[
+						"accountconsp",
+						"spec/models/account_contact_spec.rb"
+					],
+					[
+						"merkent",
+						"spec/models/market_entity_spec.rb"
+					],
+					[
+						"acco",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"account_sp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"tenans",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"addressspec",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"marketen",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"marketage",
+						"app/models/market_agency.rb"
+					],
+					[
+						"agencyspe",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"compacont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"entityspec",
+						"spec/models/entity_spec.rb"
+					],
+					[
+						"ten",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"compcont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"enti",
+						"app/models/entity.rb"
+					],
+					[
+						"markeent",
+						"app/models/market_entity.rb"
+					],
+					[
+						"marentico",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"media",
+						"public/style/mediascape.css"
+					],
+					[
+						"applicathtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"notif",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"masthead",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"noti",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"member",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"notifi",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"me",
+						"public/style/mediascape.less"
+					],
+					[
+						"masthealin",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"mast",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"masthea",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"gloanoti",
+						"spec/factories/global/global_notifications.rb"
+					],
+					[
+						"medi",
+						"public/style/mediascape.css"
+					],
+					[
+						"medialess",
+						"public/style/mediascape.less"
+					],
+					[
+						"mediascapeless",
+						"public/style/mediascape.less"
+					],
+					[
+						"notifidraw",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"usernotifiview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"med",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"usernotico",
+						"app/controllers/user_notifications_controller.rb"
+					],
+					[
+						"datamana",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"medidat",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"applicationerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"controll",
+						"app/controllers/accounts_controller.rb"
+					],
+					[
+						"notific",
+						"spec/models/global/global_notification_spec.rb"
+					],
+					[
+						"noticon",
+						"app/controllers/global/notifications_controller.rb"
+					],
+					[
+						"notiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"usernotview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"data",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"noticoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notimod",
+						"app/assets/javascripts/models/notifications/user_notification_model.js"
+					],
+					[
+						"notifiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"notificacoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"mastheadlink",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"notificoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notifimod",
+						"app/assets/javascripts/models/global/notification_model.js"
+					],
+					[
+						"mastha",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"name",
+						"app/assets/javascripts/namespaces.js"
+					],
+					[
+						"reportgroupedit",
+						"app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs"
+					],
+					[
+						"notificationdra",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"reportgrmemv",
+						"app/assets/javascripts/views/manage/report_groups/report_group_members_view.js"
+					],
+					[
+						"reportgroupmemberview",
+						"app/assets/javascripts/views/manage/report_groups/report_group_member_view.js"
+					],
+					[
+						"mediadata",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"sponlay",
+						"app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js"
+					],
+					[
+						"competitlay",
+						"app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"manageselectlist",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"manageselectlistbo",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"agenconspe",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"advcon",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"advecon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"advspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"adverspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"add",
+						"app/models/address.rb"
+					],
+					[
+						"tenant_default_campaign_custom_columns_spec.rb",
+						"spec/models/tenant/tenant_default_campaign_custom_columns_spec.rb"
+					],
+					[
+						"adveercon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"contaccont",
+						"spec/controllers/contacts_controller_spec.rb"
+					],
+					[
+						"api/agenspe",
+						"spec/controllers/api/agencies_controller_spec.rb"
+					],
+					[
+						"advertise",
+						"app/models/advertiser.rb"
+					],
+					[
+						"advercontspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"advconrs",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"spec",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advconspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"age",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"adve",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"companyhea",
+						"app/assets/javascripts/templates/companies/company_header.jst.ejs"
+					],
+					[
+						"agen",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"newcomp",
+						"app/assets/javascripts/views/companies/new_company_view.js"
+					],
+					[
+						"addressjs",
+						"app/assets/javascripts/models/addresses/address_model.js"
+					],
+					[
+						"editadve",
+						"app/assets/javascripts/templates/advertisers/edit_advertiser.jst.ejs"
+					],
+					[
+						"addres",
+						"app/models/address.rb"
+					],
+					[
+						"edituser",
+						"app/assets/javascripts/views/manage/users/edit_user_view.js"
+					],
+					[
+						"ssouser",
+						"app/assets/javascripts/models/user/sso_user_model.js"
+					],
+					[
+						"manage",
+						"app/controllers/manage_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"acs",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"applicat",
+						"config/application.rb"
+					],
+					[
+						"appcont",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"mediascape.js",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"style",
+						"vendor/cache/roomer-923908cc5f23/doc/css/style.css"
+					],
+					[
+						"select",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".css",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".scss",
+						"vendor/private/roomer-muid-0.0.1/test/rails_app/app/assets/stylesheets/application.css"
+					],
+					[
+						"tena",
+						"db/schemas/tenanted_schema.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/gitRepos/mediascape/mediscape.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"JsonHelper"
+					]
+				],
+				"width": 692.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adv",
+						"advertiser_defaults"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"eq",
+						"equal	expect equal"
+					],
+					[
+						"create",
+						"create"
+					],
+					[
+						"sh",
+						"sh=	should =="
+					],
+					[
+						"ad",
+						"advertiser"
+					],
+					[
+						"Mar",
+						"MarketEntity"
+					],
+					[
+						"joi",
+						"joined_with_market_entities"
+					],
+					[
+						"market_",
+						"market_agency"
+					],
+					[
+						"it",
+						"it	it"
+					],
+					[
+						"en",
+						"entities"
+					],
+					[
+						"ass",
+						"assigned"
+					],
+					[
+						"jo",
+						"joined_with_market_entities"
+					],
+					[
+						"to",
+						"toggleDrawer"
+					],
+					[
+						"a",
+						"alert-count"
+					],
+					[
+						"mod",
+						"models"
+					],
+					[
+						"par",
+						"parentCollection"
+					],
+					[
+						"get",
+						"getNotificationCount"
+					],
+					[
+						"no",
+						"notification-message"
+					],
+					[
+						"rem",
+						"remainingMsg"
+					],
+					[
+						"re",
+						"remainingMsg"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"not",
+						"notification-message"
+					],
+					[
+						"noti",
+						"notification-message"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"el",
+						"elem"
+					],
+					[
+						"di",
+						"dismissItem"
+					],
+					[
+						"d",
+						"dismissNotification"
+					],
+					[
+						"f",
+						"fun	Function"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"notif",
+						"Notifications"
+					],
+					[
+						"full",
+						"fullText"
+					],
+					[
+						"p",
+						"ph-notification-drawer"
+					],
+					[
+						"ren",
+						"renderNotifications"
+					],
+					[
+						"exp",
+						"expanded"
+					],
+					[
+						"ex",
+						"expandView"
+					],
+					[
+						"_",
+						"_that"
+					],
+					[
+						"fu",
+						"fullNotifications"
+					],
+					[
+						"red",
+						"renderedElement"
+					],
+					[
+						"noto",
+						"notificationCollection"
+					],
+					[
+						"err",
+						"errorState"
+					],
+					[
+						"render",
+						"renderErrorMessage"
+					],
+					[
+						"Ge",
+						"getElementsData"
+					],
+					[
+						"set",
+						"setElementsData"
+					],
+					[
+						"sso",
+						"sso_users"
+					],
+					[
+						"ss",
+						"sso_users"
+					],
+					[
+						"remove",
+						"removeNotification"
+					],
+					[
+						"remo",
+						"removeNotification"
+					],
+					[
+						"close",
+						"closeDrawer"
+					],
+					[
+						"templ",
+						"template"
+					],
+					[
+						"pr",
+						"preventDefault"
+					],
+					[
+						"sc",
+						"scrollToItem"
+					],
+					[
+						"item",
+						"itemPosition"
+					],
+					[
+						"div",
+						"divPostion"
+					],
+					[
+						"ite",
+						"itemPosition"
+					],
+					[
+						"ind",
+						"index-1"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"oldI",
+						"oldItem"
+					],
+					[
+						"old",
+						"oldIndex"
+					],
+					[
+						"is",
+						"isModelNew"
+					],
+					[
+						"curr",
+						"currentItem"
+					],
+					[
+						"saved",
+						"saved_item"
+					],
+					[
+						"isNew",
+						"isNewModel"
+					],
+					[
+						"index",
+						"indexOfElement"
+					],
+					[
+						"inde",
+						"indexOfElement"
+					],
+					[
+						"save",
+						"saved_item"
+					],
+					[
+						"address",
+						"address_attributes"
+					],
+					[
+						"valid",
+						"validation"
+					],
+					[
+						"new",
+						"new_address_1"
+					],
+					[
+						"res",
+						"rescue"
+					],
+					[
+						"app",
+						"applications"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "spec/models/agency_market_spec.rb",
+					"settings":
+					{
+						"buffer_size": 3744,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "spec/models/buyer_settings_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1985,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "spec/models/campaign_standard_remark_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1815,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "spec/spec_helper.rb",
+					"settings":
+					{
+						"buffer_size": 4181,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "spec/models/account_spec.rb",
+					"settings":
+					{
+						"buffer_size": 17480,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 2781,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Guardfile",
+					"settings":
+					{
+						"buffer_size": 1466,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/RSpec/RSpec.sublime-build",
+			"command_palette":
+			{
+				"height": 93.0,
+				"selected_items":
+				[
+					[
+						"synta rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"synt ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git push ",
+						"Git: Push Current Branch"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git dif",
+						"Git: Diff Current File"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git his",
+						"Git: Commit history"
+					],
+					[
+						"git co",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"git hi",
+						"Git: Commit history"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"synta",
+						"Set Syntax: LESS"
+					],
+					[
+						"gist",
+						"Gist: Create Private Gist"
+					],
+					[
+						"syntax ej",
+						"Set Syntax: EJS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"xiki",
+						"Preferences: SublimeXiki Settings – Default"
+					],
+					[
+						"toggle ",
+						"View: Toggle Minimap"
+					],
+					[
+						"toggle mi",
+						"View: Toggle Minimap"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"syntax javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"snipp",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 297.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Ganchenko/.pryrc",
+				"/Users/Ganchenko/gitRepos/mediascape/Gemfile",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/market_entities_controller.rb",
+				"/Users/Ganchenko/.rvm/gems/ruby-1.9.3-p0@mediascape/bundler/gems/roomer-46cb1b047d53/lib/roomer/utils.rb",
+				"/Users/Ganchenko/.irbrc",
+				"/Users/Ganchenko/.rvm/gemsets/global.gems",
+				"/Users/Ganchenko/.ssh/config",
+				"/Users/Ganchenko/.ssh/known_hosts",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/campaign_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/db/schemas/tenanted_schema.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/agency_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/.git/MERGE_MSG",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_defaults_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/address_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_spec.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default.sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_outlet_separation_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_contact_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/market_entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/application.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/accounts.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/companies_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_agency.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/market_agencies.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpecCreateModule.py",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/TestConsole.hidden-tmTheme",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/user.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/model_macros.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/spec_helper.rb",
+				"/Users/Ganchenko/test/test.html",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/notifications/user_notification_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/masthead_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/notification_drawer_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/views/layouts/application.html.erb",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.css",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.less",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/member_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/notification_drawer.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/account_settings/tenant_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/global/global_notifications.rb",
+				"/Users/Ganchenko/.oh-my-zsh/oh-my-zsh.sh",
+				"/Users/Ganchenko/.zshrc.pre-oh-my-zsh",
+				"/Users/Ganchenko/.oh-my-zsh/lib/aliases.zsh",
+				"/Users/Ganchenko/.zshrc",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/credit_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/account_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/accounts/account_traffic_settings_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/agencies/market_agencies/market_agency_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/invoicing_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/notifications/user_notification_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/global/notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/mediascape.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_data_manage.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/global/global_notification_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/user_notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/companies/companies_layout_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/user_notifications.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/accounts_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routers/routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_member_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_groups_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_group_members_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_member_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/notifications/user_notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_reassign_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/agency_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/global/notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_members_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/namespaces.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/markets/market_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_base_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/user_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/company_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/config/routes.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/inventory_types/inventory_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/tax_schedules/tax_schedule_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/make_good_policies/make_good_policy_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/revenue_types/revenue_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_layout.jst.ejs",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/navigate_to_competitive_types.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/competitive_types_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/regions_page_speX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/helpers/before_helpers.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/accounts/account_details_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/sign_in_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/partials/top_nav.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_specX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/sign_in_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/sign_in.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/google.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/Gemfile",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/mediascape.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/fixtures/mediascape/user.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/marketron.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/controllers/advertisers_controller_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/stubs/stardust.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/controllers/agencies_controller_spec.rb"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"app/*",
+					"spec/*",
+					"app/*",
+					"app/assets/javascripts/templates/*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"spec/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"active",
+					"require",
+					"muid",
+					"value",
+					"false",
+					"by_market_entity_address_text_match",
+					"by_master_address_1",
+					"Calif",
+					"California",
+					"address_1",
+					"Address_1",
+					"Adv",
+					"by_master_name_full_text_match",
+					"address_1",
+					"address",
+					"description",
+					"false",
+					"FF1493",
+					"All examples were filtered out",
+					"by_unassigned_markets",
+					"joined_with_market_entities",
+					"LEFT JOIN",
+					"LEFT OUTER",
+					"joined_with_master_entities",
+					"top",
+					"filter",
+					"value",
+					"haha",
+					"cursor",
+					"ph-app-nav",
+					"ss-icon",
+					"children",
+					"elem",
+					"Mediascape.Views.Shared.NotificationDrawer",
+					"text",
+					"collection change",
+					"this.collection.remove",
+					"collection.bind",
+					"this.collection *'change'",
+					"this.collection.on('change'",
+					"this.model.save",
+					"dismissNotification",
+					"account_traffic_settings",
+					"model.get",
+					"GlobalNotification",
+					"ul",
+					"_.map",
+					"notifications",
+					"shortNotifications",
+					"notifications",
+					"fullNotifications",
+					"checkLengthAndConcatenate",
+					"fullNotifications",
+					"shortNotifications",
+					"renderShortNotifications",
+					"renderedElement",
+					"fullNotifications",
+					"element",
+					"renderedElement",
+					"listItemSelection",
+					".on(",
+					"upto",
+					"times",
+					"upto",
+					"message",
+					"collection.fetch",
+					"renderedElement",
+					"response",
+					"data",
+					"this",
+					"data",
+					"this",
+					"_that",
+					"getCurrentSSO",
+					"this",
+					"collection.fetch",
+					"userid",
+					"collection.fetch",
+					"renderShowCompany:",
+					"renderShowCompany",
+					"renderLayoutView",
+					"Mediascape.Routes.Agencies",
+					"model",
+					"this.collection",
+					"Mediascape.Data.Manage",
+					"Data.Manage",
+					"Mediascape.Views.Manage.ManageSelectListLayout",
+					"collection.sort",
+					"closeDrawer",
+					"class",
+					"_.each",
+					"Mediascape.Models.Manage",
+					"options",
+					"Mediascape.BaseModel",
+					"Models.Global.Notification",
+					"Mediascape.Views.Shared.Masthead",
+					".drawer",
+					"drawer",
+					"*.jpg",
+					"ph-drawer",
+					"*.css",
+					"toggleDrawer",
+					"Help",
+					"ph-masthead",
+					"masthead_view",
+					"masthead_view.js",
+					"advertiser_routes",
+					"company_routes",
+					"Mediascape.Routes.Companies.ListCompanies",
+					"Mediascape.Views.Shared.Masthead",
+					"marketron-logo",
+					"foo",
+					"help",
+					"manageTenant",
+					"section",
+					"help",
+					"Accounts",
+					"accounts",
+					"masthead-links",
+					"js-navigate-section",
+					"Accounts",
+					"Setup",
+					"firstPosition",
+					"scrollTo",
+					"item",
+					"newIndex",
+					"index",
+					"debugger"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "spec/models/agency_market_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3744,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "spec/models/buyer_settings_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1985,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										703,
+										703
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "spec/models/campaign_standard_remark_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1815,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										573,
+										573
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "spec/spec_helper.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4181,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2019,
+										2019
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 559.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "spec/models/account_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17480,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13987,
+										13987
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5315.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "Gemfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2781,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2597,
+										2597
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1155.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "Guardfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1466,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										653,
+										653
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 275.0
+			},
+			"output.git":
+			{
+				"height": 338.0
+			},
+			"position": "324 -164 1440 874 0 0 1440 878 ",
+			"project": "mediscape.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"accspec",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"spechel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"markenti",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"accounsp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"campaispe",
+						"spec/models/campaign_spec.rb"
+					],
+					[
+						"campstas",
+						"spec/models/campaign_standard_remark_spec.rb"
+					],
+					[
+						"buy",
+						"spec/models/buyer_settings_spec.rb"
+					],
+					[
+						"agencymas",
+						"spec/models/agency_market_spec.rb"
+					],
+					[
+						"agencsp",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advertispe",
+						"spec/models/advertiser_spec.rb"
+					],
+					[
+						"advertisede",
+						"spec/models/advertiser_defaults_spec.rb"
+					],
+					[
+						"address",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"accmarkespe",
+						"spec/models/account_market_spec.rb"
+					],
+					[
+						"accountmarkeoutsp",
+						"spec/models/account_market_outlet_separation_spec.rb"
+					],
+					[
+						"accountconsp",
+						"spec/models/account_contact_spec.rb"
+					],
+					[
+						"merkent",
+						"spec/models/market_entity_spec.rb"
+					],
+					[
+						"acco",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"account_sp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"tenans",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"addressspec",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"marketen",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"marketage",
+						"app/models/market_agency.rb"
+					],
+					[
+						"agencyspe",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"compacont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"entityspec",
+						"spec/models/entity_spec.rb"
+					],
+					[
+						"ten",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"compcont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"enti",
+						"app/models/entity.rb"
+					],
+					[
+						"markeent",
+						"app/models/market_entity.rb"
+					],
+					[
+						"marentico",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"media",
+						"public/style/mediascape.css"
+					],
+					[
+						"applicathtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"notif",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"masthead",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"noti",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"member",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"notifi",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"me",
+						"public/style/mediascape.less"
+					],
+					[
+						"masthealin",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"mast",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"masthea",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"gloanoti",
+						"spec/factories/global/global_notifications.rb"
+					],
+					[
+						"medi",
+						"public/style/mediascape.css"
+					],
+					[
+						"medialess",
+						"public/style/mediascape.less"
+					],
+					[
+						"mediascapeless",
+						"public/style/mediascape.less"
+					],
+					[
+						"notifidraw",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"usernotifiview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"med",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"usernotico",
+						"app/controllers/user_notifications_controller.rb"
+					],
+					[
+						"datamana",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"medidat",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"applicationerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"controll",
+						"app/controllers/accounts_controller.rb"
+					],
+					[
+						"notific",
+						"spec/models/global/global_notification_spec.rb"
+					],
+					[
+						"noticon",
+						"app/controllers/global/notifications_controller.rb"
+					],
+					[
+						"notiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"usernotview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"data",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"noticoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notimod",
+						"app/assets/javascripts/models/notifications/user_notification_model.js"
+					],
+					[
+						"notifiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"notificacoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"rout",
+						"app/assets/javascripts/routers/routes.js"
+					],
+					[
+						"mastheadlink",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"notificoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notifimod",
+						"app/assets/javascripts/models/global/notification_model.js"
+					],
+					[
+						"mastha",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"name",
+						"app/assets/javascripts/namespaces.js"
+					],
+					[
+						"reportgroupedit",
+						"app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs"
+					],
+					[
+						"notificationdra",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"reportgrmemv",
+						"app/assets/javascripts/views/manage/report_groups/report_group_members_view.js"
+					],
+					[
+						"reportgroupmemberview",
+						"app/assets/javascripts/views/manage/report_groups/report_group_member_view.js"
+					],
+					[
+						"mediadata",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"sponlay",
+						"app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js"
+					],
+					[
+						"competitlay",
+						"app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"manageselectlist",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"manageselectlistbo",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"agenconspe",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"advcon",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"advecon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"advspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"adverspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"add",
+						"app/models/address.rb"
+					],
+					[
+						"tenant_default_campaign_custom_columns_spec.rb",
+						"spec/models/tenant/tenant_default_campaign_custom_columns_spec.rb"
+					],
+					[
+						"adveercon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"contaccont",
+						"spec/controllers/contacts_controller_spec.rb"
+					],
+					[
+						"api/agenspe",
+						"spec/controllers/api/agencies_controller_spec.rb"
+					],
+					[
+						"advertise",
+						"app/models/advertiser.rb"
+					],
+					[
+						"advercontspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"advconrs",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"spec",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advconspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"age",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"adve",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"companyhea",
+						"app/assets/javascripts/templates/companies/company_header.jst.ejs"
+					],
+					[
+						"agen",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"newcomp",
+						"app/assets/javascripts/views/companies/new_company_view.js"
+					],
+					[
+						"addressjs",
+						"app/assets/javascripts/models/addresses/address_model.js"
+					],
+					[
+						"editadve",
+						"app/assets/javascripts/templates/advertisers/edit_advertiser.jst.ejs"
+					],
+					[
+						"addres",
+						"app/models/address.rb"
+					],
+					[
+						"edituser",
+						"app/assets/javascripts/views/manage/users/edit_user_view.js"
+					],
+					[
+						"ssouser",
+						"app/assets/javascripts/models/user/sso_user_model.js"
+					],
+					[
+						"manage",
+						"app/controllers/manage_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"acs",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"applicat",
+						"config/application.rb"
+					],
+					[
+						"appcont",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"mediascape.js",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"style",
+						"vendor/cache/roomer-923908cc5f23/doc/css/style.css"
+					],
+					[
+						"select",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".css",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".scss",
+						"vendor/private/roomer-muid-0.0.1/test/rails_app/app/assets/stylesheets/application.css"
+					],
+					[
+						"tena",
+						"db/schemas/tenanted_schema.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/gitRepos/mediascape/mediscape.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"JsonHelper"
+					]
+				],
+				"width": 692.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 55,
+			"workspace_name": "/Users/Ganchenko/gitRepos/mediascape/mediscape.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"adv",
+						"advertiser_defaults"
+					],
+					[
+						"add",
+						"address"
+					],
+					[
+						"eq",
+						"equal	expect equal"
+					],
+					[
+						"create",
+						"create"
+					],
+					[
+						"sh",
+						"sh=	should =="
+					],
+					[
+						"ad",
+						"advertiser"
+					],
+					[
+						"Mar",
+						"MarketEntity"
+					],
+					[
+						"joi",
+						"joined_with_market_entities"
+					],
+					[
+						"market_",
+						"market_agency"
+					],
+					[
+						"it",
+						"it	it"
+					],
+					[
+						"en",
+						"entities"
+					],
+					[
+						"ass",
+						"assigned"
+					],
+					[
+						"jo",
+						"joined_with_market_entities"
+					],
+					[
+						"to",
+						"toggleDrawer"
+					],
+					[
+						"a",
+						"alert-count"
+					],
+					[
+						"mod",
+						"models"
+					],
+					[
+						"par",
+						"parentCollection"
+					],
+					[
+						"get",
+						"getNotificationCount"
+					],
+					[
+						"no",
+						"notification-message"
+					],
+					[
+						"rem",
+						"remainingMsg"
+					],
+					[
+						"re",
+						"remainingMsg"
+					],
+					[
+						"l",
+						"length"
+					],
+					[
+						"not",
+						"notification-message"
+					],
+					[
+						"noti",
+						"notification-message"
+					],
+					[
+						"ele",
+						"element"
+					],
+					[
+						"el",
+						"elem"
+					],
+					[
+						"di",
+						"dismissItem"
+					],
+					[
+						"d",
+						"dismissNotification"
+					],
+					[
+						"f",
+						"fun	Function"
+					],
+					[
+						"pad",
+						"padding-bottom"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"notif",
+						"Notifications"
+					],
+					[
+						"full",
+						"fullText"
+					],
+					[
+						"p",
+						"ph-notification-drawer"
+					],
+					[
+						"ren",
+						"renderNotifications"
+					],
+					[
+						"exp",
+						"expanded"
+					],
+					[
+						"ex",
+						"expandView"
+					],
+					[
+						"_",
+						"_that"
+					],
+					[
+						"fu",
+						"fullNotifications"
+					],
+					[
+						"red",
+						"renderedElement"
+					],
+					[
+						"noto",
+						"notificationCollection"
+					],
+					[
+						"err",
+						"errorState"
+					],
+					[
+						"render",
+						"renderErrorMessage"
+					],
+					[
+						"Ge",
+						"getElementsData"
+					],
+					[
+						"set",
+						"setElementsData"
+					],
+					[
+						"sso",
+						"sso_users"
+					],
+					[
+						"ss",
+						"sso_users"
+					],
+					[
+						"remove",
+						"removeNotification"
+					],
+					[
+						"remo",
+						"removeNotification"
+					],
+					[
+						"close",
+						"closeDrawer"
+					],
+					[
+						"templ",
+						"template"
+					],
+					[
+						"pr",
+						"preventDefault"
+					],
+					[
+						"sc",
+						"scrollToItem"
+					],
+					[
+						"item",
+						"itemPosition"
+					],
+					[
+						"div",
+						"divPostion"
+					],
+					[
+						"ite",
+						"itemPosition"
+					],
+					[
+						"ind",
+						"index-1"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"oldI",
+						"oldItem"
+					],
+					[
+						"old",
+						"oldIndex"
+					],
+					[
+						"is",
+						"isModelNew"
+					],
+					[
+						"curr",
+						"currentItem"
+					],
+					[
+						"saved",
+						"saved_item"
+					],
+					[
+						"isNew",
+						"isNewModel"
+					],
+					[
+						"index",
+						"indexOfElement"
+					],
+					[
+						"inde",
+						"indexOfElement"
+					],
+					[
+						"save",
+						"saved_item"
+					],
+					[
+						"address",
+						"address_attributes"
+					],
+					[
+						"valid",
+						"validation"
+					],
+					[
+						"new",
+						"new_address_1"
+					],
+					[
+						"res",
+						"rescue"
+					],
+					[
+						"app",
+						"applications"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "# A sample Guardfile\n# More info at https://github.com/guard/guard#readme\n\nrequire 'active_support/core_ext'\n\nguard 'livereload' do\n  watch(%r{app/.+\\.(erb|haml)})\n  watch(%r{app/helpers/.+\\.rb})\n  watch(%r{public/.+\\.(css|js|html)})\n  watch(%r{config/locales/.+\\.yml})\nend\n\nguard 'rspec', :version => 2, :all_after_pass => false, :cli => '--drb'do\n  watch(%r{^spec/.+_spec\\.rb$})\n  watch(%r{^lib/(.+)\\.rb$})     { |m| \"spec/lib/#{m[1]}_spec.rb\" }\n  watch('spec/spec_helper.rb')  { \"spec\" }\n\n  # Rails example\n  watch(%r{^app/(.+)\\.rb$})                           { |m| \"spec/#{m[1]}_spec.rb\" }\n  watch(%r{^app/(.*)(\\.erb|\\.haml)$})                 { |m| \"spec/#{m[1]}#{m[2]}_spec.rb\" }\n  watch(%r{^app/controllers/(.+)_(controller)\\.rb$})  { |m| [\"spec/routing/#{m[1]}_routing_spec.rb\", \"spec/#{m[2]}s/#{m[1]}_#{m[2]}_spec.rb\", \"spec/acceptance/#{m[1]}_spec.rb\", (m[1][/_pages/] ? \"spec/requests/#{m[1]}_spec.rb\" : \"spec/requests/#{m[1].singularize}_pages_spec.rb\")] }\n  watch(%r{^spec/support/(.+)\\.rb$})                  { \"spec\" }\n  watch('config/routes.rb')                           { \"spec/routing\" }\n  watch('app/controllers/application_controller.rb')  { \"spec/controllers\" }\n  \n  # Capybara request specs\n  watch(%r{^app/views/(.+)/.*\\.(erb|haml)$})          { |m| ( m[1][/_pages/] ? \"spec/requests/#{m[1]}_spec.rb\" : \n                                                                               \"spec/requests/#{m[1].singularize}_pages_spec.rb\" ) }\n  \n  # Turnip features and steps\n  watch(%r{^spec/acceptance/(.+)\\.feature$})\n  watch(%r{^spec/acceptance/steps/(.+)_steps\\.rb$})   { |m| Dir[File.join(\"**/#{m[1]}.feature\")][0] || 'spec/acceptance' }\nend\n\n\nguard 'spork', :cucumber_env => { 'RAILS_ENV' => 'test' }, :rspec_env => { 'RAILS_ENV' => 'test' } do\n  watch('config/application.rb')\n  watch('config/environment.rb')\n  watch('config/environments/test.rb')\n  watch(%r{^config/environments/.+\\.rb$})\n  watch(%r{^config/initializers/.+\\.rb$})\n  watch('Gemfile')\n  watch('Gemfile.lock')\n  watch('spec/spec_helper.rb') { :rspec }\n  watch('test/test_helper.rb') { :test_unit }\n  watch(%r{features/support/}) { :cucumber }\n  watch('spec/support')\nend",
+					"file": "/Users/Ganchenko/gitRepos/sample_app/Guardfile",
+					"file_size": 2359,
+					"file_write_time": 130058593240000000,
+					"settings":
+					{
+						"buffer_size": 2163,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 452,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/app/assets/stylesheets/custom.css.scss",
+					"settings":
+					{
+						"buffer_size": 1493,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2018,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 118,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "class User < ActiveRecord::Base\n  attr_accessible :name, :email, :password, :password_confirmation\n  has_secure_password\n  \n\n  before_save { |user| user.email = user.email.downcase }\n\n  validates :name, presence: true, length: { maximum: 50 }\n  VALID_EMAIL_REGEX = /\\A[\\w+\\-.]+@[\\w+\\-.]+\\.[a-z]+\\z/i\n  validates :email, presence: true, format: { with:  VALID_EMAIL_REGEX},\n  					uniqueness: { case_sensitive: false }\n\n  validates :password, presence: true, length: { minimum: 6}\n  validates :password_confirmation, presence: true\nend\n",
+					"file": "/Users/Ganchenko/gitRepos/sample_app/app/models/user.rb",
+					"file_size": 535,
+					"file_write_time": 130058593240000000,
+					"settings":
+					{
+						"buffer_size": 535,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<%= @user.name %> <%= @user.email %>\n",
+					"file": "/Users/Ganchenko/gitRepos/sample_app/app/views/users/show.html.erb",
+					"file_size": 36,
+					"file_write_time": 130154788600000000,
+					"settings":
+					{
+						"buffer_size": 37,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/spec/requests/user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 264,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/Ganchenko/gitRepos/sample_app/spec/models/user_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2482,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/RSpec/RSpec.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"synt ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"synta rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"synt ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"git push ",
+						"Git: Push Current Branch"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git dif",
+						"Git: Diff Current File"
+					],
+					[
+						"git push",
+						"Git: Push Current Branch"
+					],
+					[
+						"git log",
+						"Git: Log Current File"
+					],
+					[
+						"git his",
+						"Git: Commit history"
+					],
+					[
+						"git co",
+						"Git: Commit history"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"git hi",
+						"Git: Commit history"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"synta",
+						"Set Syntax: LESS"
+					],
+					[
+						"gist",
+						"Gist: Create Private Gist"
+					],
+					[
+						"syntax ej",
+						"Set Syntax: EJS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"xiki",
+						"Preferences: SublimeXiki Settings – Default"
+					],
+					[
+						"toggle ",
+						"View: Toggle Minimap"
+					],
+					[
+						"toggle mi",
+						"View: Toggle Minimap"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"syntax javas",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"snipp",
+						"Snippet: Lorem ipsum"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 297.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(True)",
+					"log_commands(True)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/Ganchenko/.pryrc",
+				"/Users/Ganchenko/gitRepos/mediascape/Gemfile",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/market_entities_controller.rb",
+				"/Users/Ganchenko/.rvm/gems/ruby-1.9.3-p0@mediascape/bundler/gems/roomer-46cb1b047d53/lib/roomer/utils.rb",
+				"/Users/Ganchenko/.irbrc",
+				"/Users/Ganchenko/.rvm/gemsets/global.gems",
+				"/Users/Ganchenko/.ssh/config",
+				"/Users/Ganchenko/.ssh/known_hosts",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/campaign_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/db/schemas/tenanted_schema.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/agency_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/.git/MERGE_MSG",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/advertiser_defaults_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/address_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_spec.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/RubyTest.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default.sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/RubyTest.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_market_outlet_separation_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/account_contact_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/market_entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/application.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/entity_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/accounts.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/companies_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/market_agency.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/entity.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/market_agencies.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpecCreateModule.py",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RSpec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/sublime-rspec/RSpec.sublime-build",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Widget.sublime-settings",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/RubyTest/TestConsole.hidden-tmTheme",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/app/models/user.rb",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/model_macros.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/spec_helper.rb",
+				"/Users/Ganchenko/test/test.html",
+				"/Users/Ganchenko/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/notifications/user_notification_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/masthead_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/shared/notification_drawer_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/views/layouts/application.html.erb",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.css",
+				"/Users/Ganchenko/gitRepos/mediascape/public/style/mediascape.less",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/member_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/notification_drawer.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/shared/masthead/masthead.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/account_settings/tenant_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/global/global_notifications.rb",
+				"/Users/Ganchenko/.oh-my-zsh/oh-my-zsh.sh",
+				"/Users/Ganchenko/.zshrc.pre-oh-my-zsh",
+				"/Users/Ganchenko/.oh-my-zsh/lib/aliases.zsh",
+				"/Users/Ganchenko/.zshrc",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/credit_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/account_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/accounts/account_traffic_settings_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/agencies/market_agencies/market_agency_traffic_settings.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/accounts/traffic_settings/invoicing_tab.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/notifications/user_notification_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/global/notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/mediascape.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_data_manage.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/models/global/global_notification_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/user_notifications_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/companies/companies_layout_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/factories/user_notifications.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/controllers/accounts_controller.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routers/routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/manage/report_group_member_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_groups_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/collections/manage/report_group_members_collection.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_member_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/notifications/user_notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_reassign_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/agency_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/models/global/notification_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/shared/manage_select_list_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_members_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/namespaces.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/markets/market_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/lib/mediascape_base_model.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/notifications/user_notification.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/report_groups/report_group_view.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/routes/company_routes.js",
+				"/Users/Ganchenko/gitRepos/mediascape/config/routes.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/inventory_types/inventory_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/tax_schedules/tax_schedule_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/make_good_policies/make_good_policy_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/views/manage/revenue_types/revenue_type_layout.js",
+				"/Users/Ganchenko/gitRepos/mediascape/app/assets/javascripts/templates/manage/shared/manage_select_list_layout.jst.ejs",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/navigate_to_competitive_types.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/competitive_types_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/regions_page_speX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/helpers/before_helpers.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/accounts/account_details_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/sign_in_page.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/pages/partials/top_nav.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/accounts_page_specX.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/integration/mediascape/sign_in_page_spec.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/mediascape/flows/sign_in.rb",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/google.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/Gemfile",
+				"/Users/Ganchenko/gitRepos/testing_framework/config/mediascape.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/spec/fixtures/mediascape/user.yml",
+				"/Users/Ganchenko/gitRepos/testing_framework/lib/sites/marketron.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/controllers/advertisers_controller_spec.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/support/stubs/stardust.rb",
+				"/Users/Ganchenko/gitRepos/mediascape/spec/controllers/agencies_controller_spec.rb"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"app/*",
+					"spec/*",
+					"app/*",
+					"app/assets/javascripts/templates/*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					"*",
+					"spec/*",
+					"*",
+					"app/*",
+					"*",
+					"app/*",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"box_sizing",
+					"active",
+					"require",
+					"muid",
+					"value",
+					"false",
+					"by_market_entity_address_text_match",
+					"by_master_address_1",
+					"Calif",
+					"California",
+					"address_1",
+					"Address_1",
+					"Adv",
+					"by_master_name_full_text_match",
+					"address_1",
+					"address",
+					"description",
+					"false",
+					"FF1493",
+					"All examples were filtered out",
+					"by_unassigned_markets",
+					"joined_with_market_entities",
+					"LEFT JOIN",
+					"LEFT OUTER",
+					"joined_with_master_entities",
+					"top",
+					"filter",
+					"value",
+					"haha",
+					"cursor",
+					"ph-app-nav",
+					"ss-icon",
+					"children",
+					"elem",
+					"Mediascape.Views.Shared.NotificationDrawer",
+					"text",
+					"collection change",
+					"this.collection.remove",
+					"collection.bind",
+					"this.collection *'change'",
+					"this.collection.on('change'",
+					"this.model.save",
+					"dismissNotification",
+					"account_traffic_settings",
+					"model.get",
+					"GlobalNotification",
+					"ul",
+					"_.map",
+					"notifications",
+					"shortNotifications",
+					"notifications",
+					"fullNotifications",
+					"checkLengthAndConcatenate",
+					"fullNotifications",
+					"shortNotifications",
+					"renderShortNotifications",
+					"renderedElement",
+					"fullNotifications",
+					"element",
+					"renderedElement",
+					"listItemSelection",
+					".on(",
+					"upto",
+					"times",
+					"upto",
+					"message",
+					"collection.fetch",
+					"renderedElement",
+					"response",
+					"data",
+					"this",
+					"data",
+					"this",
+					"_that",
+					"getCurrentSSO",
+					"this",
+					"collection.fetch",
+					"userid",
+					"collection.fetch",
+					"renderShowCompany:",
+					"renderShowCompany",
+					"renderLayoutView",
+					"Mediascape.Routes.Agencies",
+					"model",
+					"this.collection",
+					"Mediascape.Data.Manage",
+					"Data.Manage",
+					"Mediascape.Views.Manage.ManageSelectListLayout",
+					"collection.sort",
+					"closeDrawer",
+					"class",
+					"_.each",
+					"Mediascape.Models.Manage",
+					"options",
+					"Mediascape.BaseModel",
+					"Models.Global.Notification",
+					"Mediascape.Views.Shared.Masthead",
+					".drawer",
+					"drawer",
+					"*.jpg",
+					"ph-drawer",
+					"*.css",
+					"toggleDrawer",
+					"Help",
+					"ph-masthead",
+					"masthead_view",
+					"masthead_view.js",
+					"advertiser_routes",
+					"company_routes",
+					"Mediascape.Routes.Companies.ListCompanies",
+					"Mediascape.Views.Shared.Masthead",
+					"marketron-logo",
+					"foo",
+					"help",
+					"manageTenant",
+					"section",
+					"help",
+					"Accounts",
+					"accounts",
+					"masthead-links",
+					"js-navigate-section",
+					"Accounts",
+					"Setup",
+					"firstPosition",
+					"scrollTo",
+					"item",
+					"newIndex",
+					"index"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/Ganchenko/gitRepos/sample_app"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 8,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/Guardfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2163,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1012,
+										1012
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 110.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/app/views/layouts/application.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										436,
+										436
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/app/assets/stylesheets/custom.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1493,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1493,
+										1493
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1421.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2018,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										263,
+										263
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/app/controllers/users_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 118,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										118,
+										118
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/app/models/user.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 535,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										535,
+										535
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/app/views/users/show.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										37,
+										37
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/spec/requests/user_pages_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 264,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/Ganchenko/gitRepos/sample_app/spec/models/user_spec.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2482,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										400,
+										400
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/RSpec/RSpec.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 275.0
+			},
+			"output.git":
+			{
+				"height": 338.0
+			},
+			"position": "0 4 1440 874 0 0 1440 878 ",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"userspe",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"userpage",
+						"spec/requests/user_pages_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"userhtml",
+						"app/views/users/show.html.erb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"gua",
+						"Guardfile"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"accspec",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"spechel",
+						"spec/spec_helper.rb"
+					],
+					[
+						"markenti",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"accounsp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"campaispe",
+						"spec/models/campaign_spec.rb"
+					],
+					[
+						"campstas",
+						"spec/models/campaign_standard_remark_spec.rb"
+					],
+					[
+						"buy",
+						"spec/models/buyer_settings_spec.rb"
+					],
+					[
+						"agencymas",
+						"spec/models/agency_market_spec.rb"
+					],
+					[
+						"agencsp",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advertispe",
+						"spec/models/advertiser_spec.rb"
+					],
+					[
+						"advertisede",
+						"spec/models/advertiser_defaults_spec.rb"
+					],
+					[
+						"address",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"accmarkespe",
+						"spec/models/account_market_spec.rb"
+					],
+					[
+						"accountmarkeoutsp",
+						"spec/models/account_market_outlet_separation_spec.rb"
+					],
+					[
+						"accountconsp",
+						"spec/models/account_contact_spec.rb"
+					],
+					[
+						"merkent",
+						"spec/models/market_entity_spec.rb"
+					],
+					[
+						"acco",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"account_sp",
+						"spec/models/account_spec.rb"
+					],
+					[
+						"tenans",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"addressspec",
+						"spec/models/address_spec.rb"
+					],
+					[
+						"marketen",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"marketage",
+						"app/models/market_agency.rb"
+					],
+					[
+						"agencyspe",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"compacont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"entityspec",
+						"spec/models/entity_spec.rb"
+					],
+					[
+						"ten",
+						"db/schemas/tenanted_schema.rb"
+					],
+					[
+						"compcont",
+						"app/controllers/companies_controller.rb"
+					],
+					[
+						"enti",
+						"app/models/entity.rb"
+					],
+					[
+						"markeent",
+						"app/models/market_entity.rb"
+					],
+					[
+						"marentico",
+						"app/controllers/market_entities_controller.rb"
+					],
+					[
+						"media",
+						"public/style/mediascape.css"
+					],
+					[
+						"applicathtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"notif",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"masthead",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"noti",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"member",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"notifi",
+						"app/assets/javascripts/templates/notifications/member_notification.jst.ejs"
+					],
+					[
+						"me",
+						"public/style/mediascape.less"
+					],
+					[
+						"masthealin",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"mast",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"masthea",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"gloanoti",
+						"spec/factories/global/global_notifications.rb"
+					],
+					[
+						"medi",
+						"public/style/mediascape.css"
+					],
+					[
+						"medialess",
+						"public/style/mediascape.less"
+					],
+					[
+						"mediascapeless",
+						"public/style/mediascape.less"
+					],
+					[
+						"notifidraw",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"usernotifiview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"med",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"usernotico",
+						"app/controllers/user_notifications_controller.rb"
+					],
+					[
+						"datamana",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"medidat",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"applicationerb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"controll",
+						"app/controllers/accounts_controller.rb"
+					],
+					[
+						"notific",
+						"spec/models/global/global_notification_spec.rb"
+					],
+					[
+						"noticon",
+						"app/controllers/global/notifications_controller.rb"
+					],
+					[
+						"notiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"usernotview",
+						"app/assets/javascripts/views/notifications/user_notification_view.js"
+					],
+					[
+						"data",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"noticoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notimod",
+						"app/assets/javascripts/models/notifications/user_notification_model.js"
+					],
+					[
+						"notifiview",
+						"app/assets/javascripts/views/shared/notification_drawer_view.js"
+					],
+					[
+						"notificacoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"mastheadlink",
+						"app/assets/javascripts/templates/shared/masthead/masthead-links.jst.ejs"
+					],
+					[
+						"",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"notificoll",
+						"app/assets/javascripts/collections/notifications/user_notification_collection.js"
+					],
+					[
+						"notifimod",
+						"app/assets/javascripts/models/global/notification_model.js"
+					],
+					[
+						"mastha",
+						"app/assets/javascripts/views/shared/masthead_view.js"
+					],
+					[
+						"name",
+						"app/assets/javascripts/namespaces.js"
+					],
+					[
+						"reportgroupedit",
+						"app/assets/javascripts/templates/manage/report_groups/report_group_edit_view.jst.ejs"
+					],
+					[
+						"notificationdra",
+						"app/assets/javascripts/templates/shared/notification_drawer.jst.ejs"
+					],
+					[
+						"reportgrmemv",
+						"app/assets/javascripts/views/manage/report_groups/report_group_members_view.js"
+					],
+					[
+						"reportgroupmemberview",
+						"app/assets/javascripts/views/manage/report_groups/report_group_member_view.js"
+					],
+					[
+						"mediadata",
+						"app/assets/javascripts/lib/mediascape_data_manage.js"
+					],
+					[
+						"sponlay",
+						"app/assets/javascripts/views/manage/sponsorships/sponsorship_layout.js"
+					],
+					[
+						"competitlay",
+						"app/assets/javascripts/views/manage/competitive_types/competitive_type_layout.js"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"manageselectlist",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"manageselectlistbo",
+						"app/assets/javascripts/templates/manage/shared/manage_select_list_body.jst.ejs"
+					],
+					[
+						"agenconspe",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"advcon",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"advecon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"advspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"adverspec",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"add",
+						"app/models/address.rb"
+					],
+					[
+						"tenant_default_campaign_custom_columns_spec.rb",
+						"spec/models/tenant/tenant_default_campaign_custom_columns_spec.rb"
+					],
+					[
+						"adveercon",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"contaccont",
+						"spec/controllers/contacts_controller_spec.rb"
+					],
+					[
+						"api/agenspe",
+						"spec/controllers/api/agencies_controller_spec.rb"
+					],
+					[
+						"advertise",
+						"app/models/advertiser.rb"
+					],
+					[
+						"advercontspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"advconrs",
+						"spec/controllers/advertisers_controller_spec.rb"
+					],
+					[
+						"spec",
+						"spec/models/agency_spec.rb"
+					],
+					[
+						"advconspe",
+						"spec/controllers/api/advertisers_controller_spec.rb"
+					],
+					[
+						"age",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"adve",
+						"app/controllers/advertisers_controller.rb"
+					],
+					[
+						"companyhea",
+						"app/assets/javascripts/templates/companies/company_header.jst.ejs"
+					],
+					[
+						"agen",
+						"app/controllers/agencies_controller.rb"
+					],
+					[
+						"newcomp",
+						"app/assets/javascripts/views/companies/new_company_view.js"
+					],
+					[
+						"addressjs",
+						"app/assets/javascripts/models/addresses/address_model.js"
+					],
+					[
+						"editadve",
+						"app/assets/javascripts/templates/advertisers/edit_advertiser.jst.ejs"
+					],
+					[
+						"addres",
+						"app/models/address.rb"
+					],
+					[
+						"edituser",
+						"app/assets/javascripts/views/manage/users/edit_user_view.js"
+					],
+					[
+						"ssouser",
+						"app/assets/javascripts/models/user/sso_user_model.js"
+					],
+					[
+						"manage",
+						"app/controllers/manage_controller.rb"
+					],
+					[
+						"applicationcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"acs",
+						"spec/controllers/agencies_controller_spec.rb"
+					],
+					[
+						"applicat",
+						"config/application.rb"
+					],
+					[
+						"appcont",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"mediascape.js",
+						"app/assets/javascripts/mediascape.js"
+					],
+					[
+						"style",
+						"vendor/cache/roomer-923908cc5f23/doc/css/style.css"
+					],
+					[
+						"select",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".css",
+						"vendor/assets/stylesheets/select2/select2.css"
+					],
+					[
+						".scss",
+						"vendor/private/roomer-muid-0.0.1/test/rails_app/app/assets/stylesheets/application.css"
+					],
+					[
+						"tena",
+						"db/schemas/tenanted_schema.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"~/gitRepos/mediascape/mediscape.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"json",
+						"JsonHelper"
+					]
+				],
+				"width": 692.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 242.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 66,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/Ganchenko/Dropbox/getqajob/dev/vhosts/getqajob.dev/getqajob.sublime-workspace",
+			"/Users/Ganchenko/gitRepos/mediascape/mediscape.sublime-workspace",
+			"/Users/Ganchenko/gitRepos/mediascape-nodejitsu/nodejitsu.sublime-workspace"
+		]
+	}
+}

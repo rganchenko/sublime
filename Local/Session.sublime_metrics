@@ -1,0 +1,18 @@
+{
+	"packages":
+	[
+		"AdvancedNewFile",
+		"AdvancedNewFile",
+		"AdvancedNewFile",
+		"ERB Snippets",
+		"AdvancedNewFile"
+	],
+	"syntax":
+	{
+		"HTML (Rails)": 8,
+		"RSpec": 5,
+		"Ruby": 19,
+		"SCSS": 2
+	},
+	"time": 1370988421
+}
